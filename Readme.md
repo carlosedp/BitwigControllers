@@ -12,6 +12,8 @@ Here is the documentation for each controller.
 
 ### MPK Mini Alternative Mappings
 
+[Download][downloadmpkmini]
+
 The first fix is that the script passes the notes played by the pads correctly to the instrument. In the original script, only the keys were recorded into the track.
 
 The script is based on MPK Mini factory preset #1. These presets can be downloaded from [Akai website][akai] and loaded with the Preset Editor.
@@ -65,4 +67,4 @@ The knobs control device macros.
 
 [sm]: https://github.com/stylemistake
 [akai]: http://www.akaipro.com/product/mpkmini#downloads
-
+[downloadmpkmini]: https://github.com/carlosedp/BitwigControllers/blob/master/Akai/MPKmini-Alt.control.js
