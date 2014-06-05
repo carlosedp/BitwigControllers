@@ -1,5 +1,16 @@
+# Controller Scripts for Bitwig Studio
 
-# MPK Mini Alternative Mappings
+Install the scripts in the Bitwig User directory:
+
+* Windows: `%USER%/Documents\Bitwig Studio\Controller Scripts`
+* Mac: `~/Documents/Bitwig Studio/Controller Scripts`
+* Linux: `~/Documents/Bitwig Studio/Controller Scripts`
+
+## Controller Specific:
+
+Here is the documentation for each controller.
+
+### MPK Mini Alternative Mappings
 
 The first fix is that the script passes the notes played by the pads correctly to the instrument. In the original script, only the keys were recorded into the track.
 
